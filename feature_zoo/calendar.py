@@ -1,6 +1,3 @@
-import os.path
-ABS_PATH_TO_CACHE='C:/Users/Oscar/git/transparent_offchain/main/models/features/cache/'
-
 import pickle
 import numpy as np
 import pandas as pd
