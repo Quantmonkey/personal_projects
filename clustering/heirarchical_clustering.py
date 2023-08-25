@@ -1,6 +1,3 @@
-import sys
-sys.path.append(fr"C:\Users\Oscar\git\transparent_offchain\main")
-
 import numpy as np
 import pandas as pd
 from scipy.spatial.distance import squareform
